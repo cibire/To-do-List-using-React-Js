@@ -93,7 +93,7 @@ class App extends Component {
                     <Col md={{ span: 5, offset: 4 }}>
                         <InputGroup className="mb-3">
                             <FormControl
-                                placeholder="add item . . . "
+                                placeholder="add  . . . "
                                 size="lg"
                                 value={this.state.userInput}
                                 onChange={(item) =>
